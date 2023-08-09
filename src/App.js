@@ -9,11 +9,11 @@ function App() {
       < Weather />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Neg04/shecodes-react.git"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Source Code
         </a>
       </header>
     </div>
